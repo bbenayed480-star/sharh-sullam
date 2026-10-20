@@ -1,0 +1,624 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>شرح سلم الوصل إلى علم الأصول في توحيد الله واتباع الرسول - الشيخ أحمد الحازمي</title>
+    <description>شرح سلم الوصل إلى علم الأصول في توحيد الله واتباع الرسول - فضيلة الشيخ أحمد بن عمر الحازمي. 66 حلقة كاملة.</description>
+    <link>https://archive.org/details/066_20231128</link>
+    <language>ar</language>
+    <managingEditor>bbenayed480@gmail.com (الشيخ أحمد الحازمي)</managingEditor>
+    <itunes:owner>
+      <itunes:name>الشيخ أحمد بن عمر الحازمي</itunes:name>
+      <itunes:email>bbenayed480@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:author>الشيخ أحمد بن عمر الحازمي</itunes:author>
+    <itunes:summary>شرح سلم الوصل إلى علم الأصول في توحيد الله واتباع الرسول - الشيخ أحمد بن عمر الحازمي. 66 حلقة كاملة.</itunes:summary>
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Islam"/>
+    </itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>serial</itunes:type>
+    <image>
+      <url>https://bbenayed480-star.github.io/sharh-sullam/sharh_Sullam.png</url>
+      <title>شرح سلم الوصل - الشيخ أحمد الحازمي</title>
+      <link>https://archive.org/details/066_20231128</link>
+    </image>
+    <itunes:image href="https://bbenayed480-star.github.io/sharh-sullam/sharh_Sullam.png"/>
+
+    <item>
+      <title>سلم الوصل (01)</title>
+      <description>الحلقة 1 من شرح سلم الوصل إلى علم الأصول - الشيخ أحمد بن عمر الحازمي</description>
+      <enclosure url="https://archive.org/download/066_20231128/001.MP3" length="28206694" type="audio/mpeg"/>
+      <guid isPermaLink="false">066_20231128-ep001</guid>
+      <pubDate>Tue, 28 Nov 2023 12:00:00 +0000</pubDate>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>سلم الوصل (02)</title>
+      <description>الحلقة 2 من شرح سلم الوصل إلى علم الأصول - الشيخ أحمد بن عمر الحازمي</description>
+      <enclosure url="https://archive.org/download/066_20231128/002.MP3" length="27787264" type="audio/mpeg"/>
+      <guid isPermaLink="false">066_20231128-ep002</guid>
+      <pubDate>Wed, 29 Nov 2023 12:00:00 +0000</pubDate>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>سلم الوصل (03)</title>
+      <description>الحلقة 3 من شرح سلم الوصل إلى علم الأصول - الشيخ أحمد بن عمر الحازمي</description>
+      <enclosure url="https://archive.org/download/066_20231128/003.MP3" length="29360128" type="audio/mpeg"/>
+      <guid isPermaLink="false">066_20231128-ep003</guid>
+      <pubDate>Thu, 30 Nov 2023 12:00:00 +0000</pubDate>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>سلم الوصل (04)</title>
+      <description>الحلقة 4 من شرح سلم الوصل إلى علم الأصول - الشيخ أحمد بن عمر الحازمي</description>
+      <enclosure url="https://archive.org/download/066_20231128/004.MP3" length="29884416" type="audio/mpeg"/>
+      <guid isPermaLink="false">066_20231128-ep004</guid>
+      <pubDate>Fri, 01 Dec 2023 12:00:00 +0000</pubDate>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>سلم الوصل (05)</title>
+      <description>الحلقة 5 من شرح سلم الوصل إلى علم الأصول - الشيخ أحمد بن عمر الحازمي</description>
+      <enclosure url="https://archive.org/download/066_20231128/005.MP3" length="26633830" type="audio/mpeg"/>
+      <guid isPermaLink="false">066_20231128-ep005</guid>
+      <pubDate>Sat, 02 Dec 2023 12:00:00 +0000</pubDate>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>سلم الوصل (06)</title>
+      <description>الحلقة 6 من شرح سلم الوصل إلى علم الأصول - الشيخ أحمد بن عمر الحازمي</description>
+      <enclosure url="https://archive.org/download/066_20231128/006.MP3" length="29255270" type="audio/mpeg"/>
+      <guid isPermaLink="false">066_20231128-ep006</guid>
+      <pubDate>Sun, 03 Dec 2023 12:00:00 +0000</pubDate>
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>سلم الوصل (07)</title>
+      <description>الحلقة 7 من شرح سلم الوصل إلى علم الأصول - الشيخ أحمد بن عمر الحازمي</description>
+      <enclosure url="https://archive.org/download/066_20231128/007.MP3" length="28101836" type="audio/mpeg"/>
+      <guid isPermaLink="false">066_20231128-ep007</guid>
+      <pubDate>Mon, 04 Dec 2023 12:00:00 +0000</pubDate>
+      <itunes:episode>7</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>سلم الوصل (08)</title>
+      <description>الحلقة 8 من شرح سلم الوصل إلى علم الأصول - الشيخ أحمد بن عمر الحازمي</description>
+      <enclosure url="https://archive.org/download/066_20231128/008.MP3" length="29360128" type="audio/mpeg"/>
+      <guid isPermaLink="false">066_20231128-ep008</guid>
+      <pubDate>Tue, 05 Dec 2023 12:00:00 +0000</pubDate>
+      <itunes:episode>8</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>سلم الوصل (09)</title>
+      <description>الحلقة 9 من شرح سلم الوصل إلى علم الأصول - الشيخ أحمد بن عمر الحازمي</description>
+      <enclosure url="https://archive.org/download/066_20231128/009.MP3" length="36490444" type="audio/mpeg"/>
+      <guid isPermaLink="false">066_20231128-ep009</guid>
+      <pubDate>Wed, 06 Dec 2023 12:00:00 +0000</pubDate>
+      <itunes:episode>9</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>سلم الوصل (10)</title>
+      <description>الحلقة 10 من شرح سلم الوصل إلى علم الأصول - الشيخ أحمد بن عمر الحازمي</description>
+      <enclosure url="https://archive.org/download/066_20231128/010.MP3" length="27158118" type="audio/mpeg"/>
+      <guid isPermaLink="false">066_20231128-ep010</guid>
+      <pubDate>Thu, 07 Dec 2023 12:00:00 +0000</pubDate>
+      <itunes:episode>10</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>سلم الوصل (11)</title>
+      <description>الحلقة 11 من شرح سلم الوصل إلى علم الأصول - الشيخ أحمد بن عمر الحازمي</description>
+      <enclosure url="https://archive.org/download/066_20231128/011.MP3" length="29989273" type="audio/mpeg"/>
+      <guid isPermaLink="false">066_20231128-ep011</guid>
+      <pubDate>Fri, 08 Dec 2023 12:00:00 +0000</pubDate>
+      <itunes:episode>11</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>سلم الوصل (12)</title>
+      <description>الحلقة 12 من شرح سلم الوصل إلى علم الأصول - الشيخ أحمد بن عمر الحازمي</description>
+      <enclosure url="https://archive.org/download/066_20231128/012.MP3" length="27262976" type="audio/mpeg"/>
+      <guid isPermaLink="false">066_20231128-ep012</guid>
+      <pubDate>Sat, 09 Dec 2023 12:00:00 +0000</pubDate>
+      <itunes:episode>12</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>سلم الوصل (13)</title>
+      <description>الحلقة 13 من شرح سلم الوصل إلى علم الأصول - الشيخ أحمد بن عمر الحازمي</description>
+      <enclosure url="https://archive.org/download/066_20231128/013.MP3" length="34288435" type="audio/mpeg"/>
+      <guid isPermaLink="false">066_20231128-ep013</guid>
+      <pubDate>Sun, 10 Dec 2023 12:00:00 +0000</pubDate>
+      <itunes:episode>13</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>سلم الوصل (14)</title>
+      <description>الحلقة 14 من شرح سلم الوصل إلى علم الأصول - الشيخ أحمد بن عمر الحازمي</description>
+      <enclosure url="https://archive.org/download/066_20231128/014.MP3" length="37748736" type="audio/mpeg"/>
+      <guid isPermaLink="false">066_20231128-ep014</guid>
+      <pubDate>Mon, 11 Dec 2023 12:00:00 +0000</pubDate>
+      <itunes:episode>14</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>سلم الوصل (15)</title>
+      <description>الحلقة 15 من شرح سلم الوصل إلى علم الأصول - الشيخ أحمد بن عمر الحازمي</description>
+      <enclosure url="https://archive.org/download/066_20231128/015.MP3" length="39216742" type="audio/mpeg"/>
+      <guid isPermaLink="false">066_20231128-ep015</guid>
+      <pubDate>Tue, 12 Dec 2023 12:00:00 +0000</pubDate>
+      <itunes:episode>15</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>سلم الوصل (16)</title>
+      <description>الحلقة 16 من شرح سلم الوصل إلى علم الأصول - الشيخ أحمد بن عمر الحازمي</description>
+      <enclosure url="https://archive.org/download/066_20231128/016.MP3" length="37434163" type="audio/mpeg"/>
+      <guid isPermaLink="false">066_20231128-ep016</guid>
+      <pubDate>Wed, 13 Dec 2023 12:00:00 +0000</pubDate>
+      <itunes:episode>16</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>سلم الوصل (17)</title>
+      <description>الحلقة 17 من شرح سلم الوصل إلى علم الأصول - الشيخ أحمد بن عمر الحازمي</description>
+      <enclosure url="https://archive.org/download/066_20231128/017.MP3" length="34707865" type="audio/mpeg"/>
+      <guid isPermaLink="false">066_20231128-ep017</guid>
+      <pubDate>Thu, 14 Dec 2023 12:00:00 +0000</pubDate>
+      <itunes:episode>17</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>سلم الوصل (18)</title>
+      <description>الحلقة 18 من شرح سلم الوصل إلى علم الأصول - الشيخ أحمد بن عمر الحازمي</description>
+      <enclosure url="https://archive.org/download/066_20231128/018.MP3" length="32715571" type="audio/mpeg"/>
+      <guid isPermaLink="false">066_20231128-ep018</guid>
+      <pubDate>Fri, 15 Dec 2023 12:00:00 +0000</pubDate>
+      <itunes:episode>18</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>سلم الوصل (19)</title>
+      <description>الحلقة 19 من شرح سلم الوصل إلى علم الأصول - الشيخ أحمد بن عمر الحازمي</description>
+      <enclosure url="https://archive.org/download/066_20231128/019.MP3" length="33764147" type="audio/mpeg"/>
+      <guid isPermaLink="false">066_20231128-ep019</guid>
+      <pubDate>Sat, 16 Dec 2023 12:00:00 +0000</pubDate>
+      <itunes:episode>19</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>سلم الوصل (20)</title>
+      <description>الحلقة 20 من شرح سلم الوصل إلى علم الأصول - الشيخ أحمد بن عمر الحازمي</description>
+      <enclosure url="https://archive.org/download/066_20231128/020.MP3" length="29989273" type="audio/mpeg"/>
+      <guid isPermaLink="false">066_20231128-ep020</guid>
+      <pubDate>Sun, 17 Dec 2023 12:00:00 +0000</pubDate>
+      <itunes:episode>20</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>سلم الوصل (21)</title>
+      <description>الحلقة 21 من شرح سلم الوصل إلى علم الأصول - الشيخ أحمد بن عمر الحازمي</description>
+      <enclosure url="https://archive.org/download/066_20231128/021.MP3" length="39636172" type="audio/mpeg"/>
+      <guid isPermaLink="false">066_20231128-ep021</guid>
+      <pubDate>Mon, 18 Dec 2023 12:00:00 +0000</pubDate>
+      <itunes:episode>21</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>سلم الوصل (22)</title>
+      <description>الحلقة 22 من شرح سلم الوصل إلى علم الأصول - الشيخ أحمد بن عمر الحازمي</description>
+      <enclosure url="https://archive.org/download/066_20231128/022.MP3" length="38587596" type="audio/mpeg"/>
+      <guid isPermaLink="false">066_20231128-ep022</guid>
+      <pubDate>Tue, 19 Dec 2023 12:00:00 +0000</pubDate>
+      <itunes:episode>22</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>سلم الوصل (23)</title>
+      <description>الحلقة 23 من شرح سلم الوصل إلى علم الأصول - الشيخ أحمد بن عمر الحازمي</description>
+      <enclosure url="https://archive.org/download/066_20231128/023.MP3" length="31771852" type="audio/mpeg"/>
+      <guid isPermaLink="false">066_20231128-ep023</guid>
+      <pubDate>Wed, 20 Dec 2023 12:00:00 +0000</pubDate>
+      <itunes:episode>23</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>سلم الوصل (24)</title>
+      <description>الحلقة 24 من شرح سلم الوصل إلى علم الأصول - الشيخ أحمد بن عمر الحازمي</description>
+      <enclosure url="https://archive.org/download/066_20231128/024.MP3" length="37853593" type="audio/mpeg"/>
+      <guid isPermaLink="false">066_20231128-ep024</guid>
+      <pubDate>Thu, 21 Dec 2023 12:00:00 +0000</pubDate>
+      <itunes:episode>24</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>سلم الوصل (25)</title>
+      <description>الحلقة 25 من شرح سلم الوصل إلى علم الأصول - الشيخ أحمد بن عمر الحازمي</description>
+      <enclosure url="https://archive.org/download/066_20231128/025.MP3" length="34393292" type="audio/mpeg"/>
+      <guid isPermaLink="false">066_20231128-ep025</guid>
+      <pubDate>Fri, 22 Dec 2023 12:00:00 +0000</pubDate>
+      <itunes:episode>25</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>سلم الوصل (26)</title>
+      <description>الحلقة 26 من شرح سلم الوصل إلى علم الأصول - الشيخ أحمد بن عمر الحازمي</description>
+      <enclosure url="https://archive.org/download/066_20231128/026.MP3" length="32820428" type="audio/mpeg"/>
+      <guid isPermaLink="false">066_20231128-ep026</guid>
+      <pubDate>Sat, 23 Dec 2023 12:00:00 +0000</pubDate>
+      <itunes:episode>26</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>سلم الوصل (27)</title>
+      <description>الحلقة 27 من شرح سلم الوصل إلى علم الأصول - الشيخ أحمد بن عمر الحازمي</description>
+      <enclosure url="https://archive.org/download/066_20231128/027.MP3" length="33030144" type="audio/mpeg"/>
+      <guid isPermaLink="false">066_20231128-ep027</guid>
+      <pubDate>Sun, 24 Dec 2023 12:00:00 +0000</pubDate>
+      <itunes:episode>27</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>سلم الوصل (28)</title>
+      <description>الحلقة 28 من شرح سلم الوصل إلى علم الأصول - الشيخ أحمد بن عمر الحازمي</description>
+      <enclosure url="https://archive.org/download/066_20231128/028.MP3" length="35861299" type="audio/mpeg"/>
+      <guid isPermaLink="false">066_20231128-ep028</guid>
+      <pubDate>Mon, 25 Dec 2023 12:00:00 +0000</pubDate>
+      <itunes:episode>28</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>سلم الوصل (29)</title>
+      <description>الحلقة 29 من شرح سلم الوصل إلى علم الأصول - الشيخ أحمد بن عمر الحازمي</description>
+      <enclosure url="https://archive.org/download/066_20231128/029.MP3" length="26109542" type="audio/mpeg"/>
+      <guid isPermaLink="false">066_20231128-ep029</guid>
+      <pubDate>Tue, 26 Dec 2023 12:00:00 +0000</pubDate>
+      <itunes:episode>29</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>سلم الوصل (30)</title>
+      <description>الحلقة 30 من شرح سلم الوصل إلى علم الأصول - الشيخ أحمد بن عمر الحازمي</description>
+      <enclosure url="https://archive.org/download/066_20231128/030.MP3" length="25165824" type="audio/mpeg"/>
+      <guid isPermaLink="false">066_20231128-ep030</guid>
+      <pubDate>Wed, 27 Dec 2023 12:00:00 +0000</pubDate>
+      <itunes:episode>30</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>سلم الوصل (31)</title>
+      <description>الحلقة 31 من شرح سلم الوصل إلى علم الأصول - الشيخ أحمد بن عمر الحازمي</description>
+      <enclosure url="https://archive.org/download/066_20231128/031.MP3" length="29150412" type="audio/mpeg"/>
+      <guid isPermaLink="false">066_20231128-ep031</guid>
+      <pubDate>Thu, 28 Dec 2023 12:00:00 +0000</pubDate>
+      <itunes:episode>31</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>سلم الوصل (32)</title>
+      <description>الحلقة 32 من شرح سلم الوصل إلى علم الأصول - الشيخ أحمد بن عمر الحازمي</description>
+      <enclosure url="https://archive.org/download/066_20231128/032.MP3" length="19188940" type="audio/mpeg"/>
+      <guid isPermaLink="false">066_20231128-ep032</guid>
+      <pubDate>Fri, 29 Dec 2023 12:00:00 +0000</pubDate>
+      <itunes:episode>32</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>سلم الوصل (33)</title>
+      <description>الحلقة 33 من شرح سلم الوصل إلى علم الأصول - الشيخ أحمد بن عمر الحازمي</description>
+      <enclosure url="https://archive.org/download/066_20231128/033.MP3" length="32820428" type="audio/mpeg"/>
+      <guid isPermaLink="false">066_20231128-ep033</guid>
+      <pubDate>Sat, 30 Dec 2023 12:00:00 +0000</pubDate>
+      <itunes:episode>33</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>سلم الوصل (34)</title>
+      <description>الحلقة 34 من شرح سلم الوصل إلى علم الأصول - الشيخ أحمد بن عمر الحازمي</description>
+      <enclosure url="https://archive.org/download/066_20231128/034.MP3" length="35022438" type="audio/mpeg"/>
+      <guid isPermaLink="false">066_20231128-ep034</guid>
+      <pubDate>Sun, 31 Dec 2023 12:00:00 +0000</pubDate>
+      <itunes:episode>34</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>سلم الوصل (35)</title>
+      <description>الحلقة 35 من شرح سلم الوصل إلى علم الأصول - الشيخ أحمد بن عمر الحازمي</description>
+      <enclosure url="https://archive.org/download/066_20231128/035.MP3" length="32296140" type="audio/mpeg"/>
+      <guid isPermaLink="false">066_20231128-ep035</guid>
+      <pubDate>Mon, 01 Jan 2024 12:00:00 +0000</pubDate>
+      <itunes:episode>35</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>سلم الوصل (36)</title>
+      <description>الحلقة 36 من شرح سلم الوصل إلى علم الأصول - الشيخ أحمد بن عمر الحازمي</description>
+      <enclosure url="https://archive.org/download/066_20231128/036.MP3" length="32191283" type="audio/mpeg"/>
+      <guid isPermaLink="false">066_20231128-ep036</guid>
+      <pubDate>Tue, 02 Jan 2024 12:00:00 +0000</pubDate>
+      <itunes:episode>36</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>سلم الوصل (37)</title>
+      <description>الحلقة 37 من شرح سلم الوصل إلى علم الأصول - الشيخ أحمد بن عمر الحازمي</description>
+      <enclosure url="https://archive.org/download/066_20231128/037.MP3" length="28626124" type="audio/mpeg"/>
+      <guid isPermaLink="false">066_20231128-ep037</guid>
+      <pubDate>Wed, 03 Jan 2024 12:00:00 +0000</pubDate>
+      <itunes:episode>37</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>سلم الوصل (38)</title>
+      <description>الحلقة 38 من شرح سلم الوصل إلى علم الأصول - الشيخ أحمد بن عمر الحازمي</description>
+      <enclosure url="https://archive.org/download/066_20231128/038.MP3" length="37643878" type="audio/mpeg"/>
+      <guid isPermaLink="false">066_20231128-ep038</guid>
+      <pubDate>Thu, 04 Jan 2024 12:00:00 +0000</pubDate>
+      <itunes:episode>38</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>سلم الوصل (39)</title>
+      <description>الحلقة 39 من شرح سلم الوصل إلى علم الأصول - الشيخ أحمد بن عمر الحازمي</description>
+      <enclosure url="https://archive.org/download/066_20231128/039.MP3" length="30723276" type="audio/mpeg"/>
+      <guid isPermaLink="false">066_20231128-ep039</guid>
+      <pubDate>Fri, 05 Jan 2024 12:00:00 +0000</pubDate>
+      <itunes:episode>39</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>سلم الوصل (40)</title>
+      <description>الحلقة 40 من شرح سلم الوصل إلى علم الأصول - الشيخ أحمد بن عمر الحازمي</description>
+      <enclosure url="https://archive.org/download/066_20231128/040.MP3" length="27682406" type="audio/mpeg"/>
+      <guid isPermaLink="false">066_20231128-ep040</guid>
+      <pubDate>Sat, 06 Jan 2024 12:00:00 +0000</pubDate>
+      <itunes:episode>40</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>سلم الوصل (41)</title>
+      <description>الحلقة 41 من شرح سلم الوصل إلى علم الأصول - الشيخ أحمد بن عمر الحازمي</description>
+      <enclosure url="https://archive.org/download/066_20231128/041.MP3" length="35861299" type="audio/mpeg"/>
+      <guid isPermaLink="false">066_20231128-ep041</guid>
+      <pubDate>Sun, 07 Jan 2024 12:00:00 +0000</pubDate>
+      <itunes:episode>41</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>سلم الوصل (42)</title>
+      <description>الحلقة 42 من شرح سلم الوصل إلى علم الأصول - الشيخ أحمد بن عمر الحازمي</description>
+      <enclosure url="https://archive.org/download/066_20231128/042.MP3" length="32296140" type="audio/mpeg"/>
+      <guid isPermaLink="false">066_20231128-ep042</guid>
+      <pubDate>Mon, 08 Jan 2024 12:00:00 +0000</pubDate>
+      <itunes:episode>42</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>سلم الوصل (43)</title>
+      <description>الحلقة 43 من شرح سلم الوصل إلى علم الأصول - الشيخ أحمد بن عمر الحازمي</description>
+      <enclosure url="https://archive.org/download/066_20231128/043.MP3" length="32925286" type="audio/mpeg"/>
+      <guid isPermaLink="false">066_20231128-ep043</guid>
+      <pubDate>Tue, 09 Jan 2024 12:00:00 +0000</pubDate>
+      <itunes:episode>43</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>سلم الوصل (44)</title>
+      <description>الحلقة 44 من شرح سلم الوصل إلى علم الأصول - الشيخ أحمد بن عمر الحازمي</description>
+      <enclosure url="https://archive.org/download/066_20231128/044.MP3" length="31037849" type="audio/mpeg"/>
+      <guid isPermaLink="false">066_20231128-ep044</guid>
+      <pubDate>Wed, 10 Jan 2024 12:00:00 +0000</pubDate>
+      <itunes:episode>44</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>سلم الوصل (45)</title>
+      <description>الحلقة 45 من شرح سلم الوصل إلى علم الأصول - الشيخ أحمد بن عمر الحازمي</description>
+      <enclosure url="https://archive.org/download/066_20231128/045.MP3" length="33030144" type="audio/mpeg"/>
+      <guid isPermaLink="false">066_20231128-ep045</guid>
+      <pubDate>Thu, 11 Jan 2024 12:00:00 +0000</pubDate>
+      <itunes:episode>45</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>سلم الوصل (46)</title>
+      <description>الحلقة 46 من شرح سلم الوصل إلى علم الأصول - الشيخ أحمد بن عمر الحازمي</description>
+      <enclosure url="https://archive.org/download/066_20231128/046.MP3" length="33239859" type="audio/mpeg"/>
+      <guid isPermaLink="false">066_20231128-ep046</guid>
+      <pubDate>Fri, 12 Jan 2024 12:00:00 +0000</pubDate>
+      <itunes:episode>46</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>سلم الوصل (47)</title>
+      <description>الحلقة 47 من شرح سلم الوصل إلى علم الأصول - الشيخ أحمد بن عمر الحازمي</description>
+      <enclosure url="https://archive.org/download/066_20231128/047.MP3" length="35861299" type="audio/mpeg"/>
+      <guid isPermaLink="false">066_20231128-ep047</guid>
+      <pubDate>Sat, 13 Jan 2024 12:00:00 +0000</pubDate>
+      <itunes:episode>47</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>سلم الوصل (48)</title>
+      <description>الحلقة 48 من شرح سلم الوصل إلى علم الأصول - الشيخ أحمد بن عمر الحازمي</description>
+      <enclosure url="https://archive.org/download/066_20231128/048.MP3" length="33869004" type="audio/mpeg"/>
+      <guid isPermaLink="false">066_20231128-ep048</guid>
+      <pubDate>Sun, 14 Jan 2024 12:00:00 +0000</pubDate>
+      <itunes:episode>48</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>سلم الوصل (49)</title>
+      <description>الحلقة 49 من شرح سلم الوصل إلى علم الأصول - الشيخ أحمد بن عمر الحازمي</description>
+      <enclosure url="https://archive.org/download/066_20231128/049.MP3" length="33659289" type="audio/mpeg"/>
+      <guid isPermaLink="false">066_20231128-ep049</guid>
+      <pubDate>Mon, 15 Jan 2024 12:00:00 +0000</pubDate>
+      <itunes:episode>49</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>سلم الوصل (50)</title>
+      <description>الحلقة 50 من شرح سلم الوصل إلى علم الأصول - الشيخ أحمد بن عمر الحازمي</description>
+      <enclosure url="https://archive.org/download/066_20231128/050.MP3" length="41523609" type="audio/mpeg"/>
+      <guid isPermaLink="false">066_20231128-ep050</guid>
+      <pubDate>Tue, 16 Jan 2024 12:00:00 +0000</pubDate>
+      <itunes:episode>50</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>سلم الوصل (51)</title>
+      <description>الحلقة 51 من شرح سلم الوصل إلى علم الأصول - الشيخ أحمد بن عمر الحازمي</description>
+      <enclosure url="https://archive.org/download/066_20231128/051.MP3" length="33973862" type="audio/mpeg"/>
+      <guid isPermaLink="false">066_20231128-ep051</guid>
+      <pubDate>Wed, 17 Jan 2024 12:00:00 +0000</pubDate>
+      <itunes:episode>51</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>سلم الوصل (52)</title>
+      <description>الحلقة 52 من شرح سلم الوصل إلى علم الأصول - الشيخ أحمد بن عمر الحازمي</description>
+      <enclosure url="https://archive.org/download/066_20231128/052.MP3" length="33659289" type="audio/mpeg"/>
+      <guid isPermaLink="false">066_20231128-ep052</guid>
+      <pubDate>Thu, 18 Jan 2024 12:00:00 +0000</pubDate>
+      <itunes:episode>52</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>سلم الوصل (53)</title>
+      <description>الحلقة 53 من شرح سلم الوصل إلى علم الأصول - الشيخ أحمد بن عمر الحازمي</description>
+      <enclosure url="https://archive.org/download/066_20231128/053.MP3" length="31771852" type="audio/mpeg"/>
+      <guid isPermaLink="false">066_20231128-ep053</guid>
+      <pubDate>Fri, 19 Jan 2024 12:00:00 +0000</pubDate>
+      <itunes:episode>53</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>سلم الوصل (54)</title>
+      <description>الحلقة 54 من شرح سلم الوصل إلى علم الأصول - الشيخ أحمد بن عمر الحازمي</description>
+      <enclosure url="https://archive.org/download/066_20231128/054.MP3" length="35441868" type="audio/mpeg"/>
+      <guid isPermaLink="false">066_20231128-ep054</guid>
+      <pubDate>Sat, 20 Jan 2024 12:00:00 +0000</pubDate>
+      <itunes:episode>54</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>سلم الوصل (55)</title>
+      <description>الحلقة 55 من شرح سلم الوصل إلى علم الأصول - الشيخ أحمد بن عمر الحازمي</description>
+      <enclosure url="https://archive.org/download/066_20231128/055.MP3" length="31037849" type="audio/mpeg"/>
+      <guid isPermaLink="false">066_20231128-ep055</guid>
+      <pubDate>Sun, 21 Jan 2024 12:00:00 +0000</pubDate>
+      <itunes:episode>55</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>سلم الوصل (56)</title>
+      <description>الحلقة 56 من شرح سلم الوصل إلى علم الأصول - الشيخ أحمد بن عمر الحازمي</description>
+      <enclosure url="https://archive.org/download/066_20231128/056.MP3" length="31771852" type="audio/mpeg"/>
+      <guid isPermaLink="false">066_20231128-ep056</guid>
+      <pubDate>Mon, 22 Jan 2024 12:00:00 +0000</pubDate>
+      <itunes:episode>56</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>سلم الوصل (57)</title>
+      <description>الحلقة 57 من شرح سلم الوصل إلى علم الأصول - الشيخ أحمد بن عمر الحازمي</description>
+      <enclosure url="https://archive.org/download/066_20231128/057.MP3" length="32505856" type="audio/mpeg"/>
+      <guid isPermaLink="false">066_20231128-ep057</guid>
+      <pubDate>Tue, 23 Jan 2024 12:00:00 +0000</pubDate>
+      <itunes:episode>57</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>سلم الوصل (58)</title>
+      <description>الحلقة 58 من شرح سلم الوصل إلى علم الأصول - الشيخ أحمد بن عمر الحازمي</description>
+      <enclosure url="https://archive.org/download/066_20231128/058.MP3" length="38587596" type="audio/mpeg"/>
+      <guid isPermaLink="false">066_20231128-ep058</guid>
+      <pubDate>Wed, 24 Jan 2024 12:00:00 +0000</pubDate>
+      <itunes:episode>58</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>سلم الوصل (59)</title>
+      <description>الحلقة 59 من شرح سلم الوصل إلى علم الأصول - الشيخ أحمد بن عمر الحازمي</description>
+      <enclosure url="https://archive.org/download/066_20231128/059.MP3" length="31666995" type="audio/mpeg"/>
+      <guid isPermaLink="false">066_20231128-ep059</guid>
+      <pubDate>Thu, 25 Jan 2024 12:00:00 +0000</pubDate>
+      <itunes:episode>59</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>سلم الوصل (60)</title>
+      <description>الحلقة 60 من شرح سلم الوصل إلى علم الأصول - الشيخ أحمد بن عمر الحازمي</description>
+      <enclosure url="https://archive.org/download/066_20231128/060.MP3" length="31247564" type="audio/mpeg"/>
+      <guid isPermaLink="false">066_20231128-ep060</guid>
+      <pubDate>Fri, 26 Jan 2024 12:00:00 +0000</pubDate>
+      <itunes:episode>60</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>سلم الوصل (61)</title>
+      <description>الحلقة 61 من شرح سلم الوصل إلى علم الأصول - الشيخ أحمد بن عمر الحازمي</description>
+      <enclosure url="https://archive.org/download/066_20231128/061.mp3" length="24746393" type="audio/mpeg"/>
+      <guid isPermaLink="false">066_20231128-ep061</guid>
+      <pubDate>Sat, 27 Jan 2024 12:00:00 +0000</pubDate>
+      <itunes:episode>61</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>سلم الوصل (62)</title>
+      <description>الحلقة 62 من شرح سلم الوصل إلى علم الأصول - الشيخ أحمد بن عمر الحازمي</description>
+      <enclosure url="https://archive.org/download/066_20231128/062.MP3" length="31876710" type="audio/mpeg"/>
+      <guid isPermaLink="false">066_20231128-ep062</guid>
+      <pubDate>Sun, 28 Jan 2024 12:00:00 +0000</pubDate>
+      <itunes:episode>62</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>سلم الوصل (63)</title>
+      <description>الحلقة 63 من شرح سلم الوصل إلى علم الأصول - الشيخ أحمد بن عمر الحازمي</description>
+      <enclosure url="https://archive.org/download/066_20231128/063.MP3" length="31981568" type="audio/mpeg"/>
+      <guid isPermaLink="false">066_20231128-ep063</guid>
+      <pubDate>Mon, 29 Jan 2024 12:00:00 +0000</pubDate>
+      <itunes:episode>63</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>سلم الوصل (64)</title>
+      <description>الحلقة 64 من شرح سلم الوصل إلى علم الأصول - الشيخ أحمد بن عمر الحازمي</description>
+      <enclosure url="https://archive.org/download/066_20231128/064.MP3" length="25690112" type="audio/mpeg"/>
+      <guid isPermaLink="false">066_20231128-ep064</guid>
+      <pubDate>Tue, 30 Jan 2024 12:00:00 +0000</pubDate>
+      <itunes:episode>64</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>سلم الوصل (65)</title>
+      <description>الحلقة 65 من شرح سلم الوصل إلى علم الأصول - الشيخ أحمد بن عمر الحازمي</description>
+      <enclosure url="https://archive.org/download/066_20231128/065.MP3" length="40579891" type="audio/mpeg"/>
+      <guid isPermaLink="false">066_20231128-ep065</guid>
+      <pubDate>Wed, 31 Jan 2024 12:00:00 +0000</pubDate>
+      <itunes:episode>65</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>سلم الوصل (66)</title>
+      <description>الحلقة 66 من شرح سلم الوصل إلى علم الأصول - الشيخ أحمد بن عمر الحازمي</description>
+      <enclosure url="https://archive.org/download/066_20231128/066.mp3" length="159488409" type="audio/mpeg"/>
+      <guid isPermaLink="false">066_20231128-ep066</guid>
+      <pubDate>Thu, 01 Feb 2024 12:00:00 +0000</pubDate>
+      <itunes:episode>66</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+  </channel>
+</rss>
